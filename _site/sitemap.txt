@@ -1,18 +1,18 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://vpoola88.github.io/anita-portfolio/archive.html
+http://vpoola88.github.io/anita-portfolio/atom.xml
+http://vpoola88.github.io/anita-portfolio/categories.html
+http://vpoola88.github.io/anita-portfolio/index.html
+http://vpoola88.github.io/anita-portfolio/pages.html
+http://vpoola88.github.io/anita-portfolio/rss.xml
+http://vpoola88.github.io/anita-portfolio/sitemap.txt
+http://vpoola88.github.io/anita-portfolio/tags.html
 
-http://username.github.io/testimonials/2014/12/08/7
-http://username.github.io/testimonials/2014/12/08/6
-http://username.github.io/testimonials/2014/12/08/5
-http://username.github.io/testimonials/2014/12/08/4
-http://username.github.io/testimonials/2014/12/08/3
-http://username.github.io/testimonials/2014/12/08/2
-http://username.github.io/testimonials/2014/12/08/1
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/7
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/6
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/5
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/4
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/3
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/2
+http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/1
+http://vpoola88.github.io/anita-portfolio/lessons/2011/12/29/jekyll-introduction

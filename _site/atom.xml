@@ -6,22 +6,22 @@
 
     <title>Atom Feed</title>
     
-    <meta name="author" content="Name Lastname">
+    <meta name="author" content="Anita Coggshall">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="/assets/themes/anita/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/assets/themes/anita/css/style.css" rel="stylesheet">
+    <link href="assets/themes/anita/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/themes/anita/css/style.css" rel="stylesheet">
 
         <!-- Plugin CSS -->
-    <link href="/assets/themes/anita/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="/assets/themes/anita/css/owl.theme.min.css" rel="stylesheet">
+    <link href="assets/themes/anita/css/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/themes/anita/css/owl.theme.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
         <!-- Ajax -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     
         <!-- Owl Carousel JS -->
-    <script src="/assets/themes/anita/resources/scripts/owl.carousel.min.js"></script>
+    <script src="assets/themes/anita/resources/scripts/owl.carousel.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="/assets/themes/anita/resources/respond/Respond.min.js"></script>
@@ -42,7 +42,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-               <!--  <a class="navbar-brand" href="/">Jekyll Bootstrap-3</a> -->
+               <!--  <a class="navbar-brand" href="/">Anita Coggshall</a> -->
             </div>
 
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -61,85 +61,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap-3</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-12-08T18:38:23-08:00</updated>
- <id>http://username.github.io</id>
+ <title>Anita Coggshall</title>
+ <link href="http://vpoola88.github.io/anita-portfolio/" rel="self"/>
+ <link href="http://vpoola88.github.io/anita-portfolio"/>
+ <updated>2014-12-08T20:07:48-08:00</updated>
+ <id>http://vpoola88.github.io/anita-portfolio</id>
  <author>
-   <name>Name Lastname</name>
+   <name>Anita Coggshall</name>
    <email>blah@email.test</email>
  </author>
 
  
  <entry>
    <title>7</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/7"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/7"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/7</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/7</id>
    <content type="html">&lt;p&gt;“Anita’s has a great positive attitude and outstanding communication skills. She pursues her goals and is highly effective meeting deadlines. Works excellent with others and is a true team leader. She is also on the cutting edge of current trends in the world of online marketing and advertising, making her a great asset to any company. I would strongly recommend her.”&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>6</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/6"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/6"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/6</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/6</id>
    <content type="html">&lt;p&gt;“Anita maintains a high level of expertise in the advertising industry. She exemplifies professionalism and takes command of her role as Senior Advertising Consultant. Anita thrives on initiating and maintaining strong client relationships while managing all facets of an effective advertising campaign. These traits combined with her fun and outgoing personality is the reason Anita has a bright future in her profession.”&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>5</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/5"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/5"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/5</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/5</id>
    <content type="html">&lt;p&gt;“Anita has the marketing acumen and project management skills to tackle any web or ecommerce challenge. I have had the pleasure of working with Anita as a client of her company for the past year. Her work on my company’s website, social media, and ecommerce has demonstrated measurable revenue gains and increased traffic. She works well with clients and is resourceful to deliver according to their needs. I highly recommend working with Anita for exceptional digital marketing.” &lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>4</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/4"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/4"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/4</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/4</id>
    <content type="html">&lt;p&gt;I highly recommend Anita for employment. She is an intelligent, driven team player and would make a great asset to any organization.” &lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>3</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/3"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/3"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/3</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/3</id>
    <content type="html">&lt;p&gt;Anita was charged with, and excelled in, a supervisory role over the sales team, scheduling and implementing sales meetings, helping to increase communication and productivity of other employees. She has demonstrated superb attention to detail and organizational skills, streamlining work flow of the sales team, managing client accounts, and development of proposals and sales collateral.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/2"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/2"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/2</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/2</id>
    <content type="html">&lt;p&gt;“Besides being a joy to work with, Anita is a take-charge person who is able to present creative ideas and communicate well with team members. In her sales role, she has successfully developed several client relationships that have resulted in increased revenue for our company. &lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>1</title>
-   <link href="http://username.github.io/testimonials/2014/12/08/1"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/1"/>
    <updated>2014-12-08T00:00:00-08:00</updated>
-   <id>http://username.github.io/testimonials/2014/12/08/1</id>
+   <id>http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/1</id>
    <content type="html">&lt;p&gt;“Anita and I have worked together at Motivate, Inc. for over two years and in that time we have partnered on numerous projects. I have always found Anita to be very professional, driven and dedicated. She is very friendly, knowledgeable, and has played a large role in the growth of Motivate and the division in which she works.” &lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://vpoola88.github.io/anita-portfolio/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-08:00</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://vpoola88.github.io/anita-portfolio/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
@@ -563,7 +563,7 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&l
     <footer>
         <div class="container">
             <p>
-                &copy; 2014 Name Lastname
+                &copy; 2014 Anita Coggshall
                 <span class="pull-right text-muted">
                     developed by Vivek Poola
                 </span>
@@ -574,10 +574,10 @@ or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&l
 
 
 
-<script src="/assets/themes/anita/resources/jquery/jquery.min.js"></script>
-<script src="/assets/themes/anita/resources/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/themes/anita/resources/jquery/jquery.min.js"></script>
+<script src="assets/themes/anita/resources/bootstrap/js/bootstrap.min.js"></script>
 
-<script src="/assets/themes/anita/resources/scripts/owl.carousel.min.js"></script>
+<script src="assets/themes/anita/resources/scripts/owl.carousel.min.js"></script>
 
 <script>
 $(document).ready(function() {
