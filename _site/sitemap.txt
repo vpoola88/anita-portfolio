@@ -11,8 +11,6 @@ http://vpoola88.github.io/anita-portfolio/tags.html
 http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/7
 http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/6
 http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/5
-http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/4
-http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/3
 http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/2
 http://vpoola88.github.io/anita-portfolio/testimonials/2014/12/08/1
 http://vpoola88.github.io/anita-portfolio/lessons/2011/12/29/jekyll-introduction

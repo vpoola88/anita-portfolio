@@ -7,8 +7,9 @@ layout: page
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="content text-center">
-					<h3>DIGITAL MARKETING PROFESSIONAL</h3>
+					
 					<h1>Anita Coggshall</h1>
+					<h3>DIGITAL MARKETING PROFESSIONAL</h3>
 				</div>
 			</div>
 		</div>
@@ -34,7 +35,7 @@ layout: page
 			</div>
 			<div class="col-sm-6">
 				<p class="lead">
-					I am a digital enthusiast with an inherent curiosity for new and emerging media and trends. My experience at national agencies, local advertising media, and startups, encompasses a broad spectrum of industries and perspectives and has made way for an integrated approach to marketing.
+					I have an inherent curiosity for new and emerging media and trends. My experience at national agencies, local advertising media, and digital startups encompasses a broad spectrum of industries and perspectives and has made way for an integrated approach to marketing.
 				</p>
 			</div>
 		</div>
@@ -57,41 +58,69 @@ layout: page
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 text-center">
-				<h2 class="section-title">WHERE I'VE WORKED</h2>
+				<h2 class="section-title-white">WHERE I'VE WORKED</h2>
 			</div>
 		</div>
 		<div class="row text-center">
 			<div class="col-sm-4">
+				<div class="grid">
+					<figure class="effect-layla">
+						<img src="http://vpoola88.github.io/anita-portfolio/assets/themes/anita/img/anthro.png" alt="img06"/>
+						<figcaption>
+							<h2>Crazy <span>Layla</span></h2>
+							<p>When Layla appears, she brings an eternal summer along.</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+					<figure class="effect-layla">
+						<img src="img/3.jpg" alt="img03"/>
+						<figcaption>
+							<h2>Crazy <span>Layla</span></h2>
+							<p>When Layla appears, she brings an eternal summer along.</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+				</div>
+			</div>
+			<!-- <div class="col-sm-4">
 				<div class="job-wrap">
 					<div class="img-wrap">
 					<img src="http://vpoola88.github.io/anita-portfolio/assets/themes/anita/img/anthro.png" class="img-thumbnail">
 					</div>
-					<!-- <h3>Anthro.is</h3> -->
+					
 					<hr>
-					<p>Digital & Socital Strategy/ Marketing</p>
+					<p>Lead Digital Marketing Account Manager</p>
 				</div>
 			</div>
-
-			<div class="col-sm-4">
-				<div class="job-wrap">
-					<div class="img-wrap">
-					<img src="http://vpoola88.github.io/anita-portfolio/assets/themes/anita/img/move.png" class="img-thumbnail">
-					</div>
-					<!-- <h3>Reader</h3> -->
-					<hr>
-					<p>Digital & Socital Strategy/ Marketing</p>
-				</div>
-			</div>
-
 			<div class="col-sm-4">
 				<div class="job-wrap">
 					<div class="img-wrap">
 					<img src="http://vpoola88.github.io/anita-portfolio/assets/themes/anita/img/read.png" class="img-thumbnail">
 					</div>
-					<!-- <h3>Media To Motivate</h3> -->
+					
 					<hr>
-					<p>Digital & Socital Strategy/ Marketing</p>
+					<p>Senior Advertising Executive</p>
 				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="job-wrap">
+					<div class="img-wrap">
+					<img src="http://vpoola88.github.io/anita-portfolio/assets/themes/anita/img/move.png" class="img-thumbnail">
+					</div>
+					
+					<hr>
+					<p>Media Supervisor | Account Manager</p>
+				</div>
+			</div> -->
+		</div>
+	</div>
+</section>
+
+<section id="portfolio">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 text-center">
+				<h2 class="section-title">MY PORTFOLIO</h2>
 			</div>
 		</div>
 	</div>
@@ -101,7 +130,7 @@ layout: page
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 text-center">
-				<h2 class="section-title">CONTACT ME</h2>
+				<h2 class="section-title-white">CONTACT ME</h2>
 			</div>
 		</div>
 		<form method="POST" action="http://forms.brace.io/vpoola88@gmail.com">
@@ -142,7 +171,7 @@ layout: page
                     <blockquote>
                         <h4>{{ post.source }}</h4>
                         <p>{{ post.content }}</p>
-                        <p>- {{ post.author }}</p>
+                        <a href="{{ post.link }}" target="_blank">- {{post.author}}</a>
                     </blockquote>
                 </div>
             {% endfor %}
