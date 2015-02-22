@@ -1,0 +1,24 @@
+<section id="testimonials">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1 text-center">
+                <h2 class="section-heading">Testimonails</h2>
+                <br>
+            </div>
+
+            <div id="owl-demo" class="owl-carousel owl-theme">
+            {% for post in site.categories['testimonials'] %}
+                <div class="item">
+                    <blockquote>
+                        <h4>{{ post.source }}</h4>
+                        <p>{{ post.content }}</p>
+                        <a href="{{ post.link }}" target="_blank">- {{post.author}}</a>
+                    </blockquote>
+                </div>
+            {% endfor %}
+            </div>
+
+
+        </div>
+    </div>
+</section>

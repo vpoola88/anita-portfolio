@@ -1,6 +1,21 @@
----
-theme :
-  name : anita
----
-{% include JB/setup %}
-{% include themes/anita/default.html %}
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+
+    <body id="page-top" class="index">
+
+    {% include header.html %}
+    {% include about.html %}
+    {% include parralax.html %}
+    {% include services.html %}
+    {% include portfolio_grid.html %}
+    {% include contact.html %}
+    {% include testimonials.html %}
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+
+    </body>
+</html>
