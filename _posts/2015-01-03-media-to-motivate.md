@@ -4,7 +4,7 @@ subtitle: Motivate, Inc.
 subtitle2: March 2007 - April 2009
 subtitle3: Media Account Manager and Supervisor
 layout: default
-modal-id: 8
+modal-id: 9
 img: media.jpg
 thumbnail: media-thumbnail.jpg
 alt: Media-to-motivate
