@@ -1,16 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Branden Muhl
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+img: branden.jpg
+thumbnail: branden-thumbnail.jpg
+alt: branden
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Branden Muhl
+link: http://www.brandenmuhl.com/
 tag: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Branden Muhl is CEO of Mahaska, Co-Founder of Odin Brands, Founder and CIO of the B Group, and Co-Manager of the Greystone Hotel Project in Miami. Branden wanted his own executive website that showcased his many roles and could provide an outlet for him to post his biotech investment technical analyses. 
+description2: I worked closely with Branden and our lead designer and development team on a website that portrayed his personality and executive roles perfectly. We designed a logo for himself and also for The B Group, his investment company, and created social media accounts for him to post blogs and content from his website as he added to it.
+description3: Using analytics and tracking, I followed closely how a single blog post about a particular newsworthy investment could boost traffic and social media followers exponentially, and provided this information to the client. I continued to monitor and help with content as needed.
 
 ---

@@ -1,16 +1,16 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Sports Media Challenge
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
+img: smc.jpg
+thumbnail: smc-thumbnail.jpg
+alt: sportsmediachallenge
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Sports Media Challenge
+link: http://www.sportsmediachallenge.com/
 tag: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Sports Media Challenge has been at the forefront of sports media and communication, providing cutting edge, high quality services. Their amazing President and Founder, Kathleen Hessert, trains athletes, coaches, teams, leagues and professionals at various levels, to maximize public exposure while minimizing risks. They wanted a website and brand redesign, with full analytics and SEO support.
+description2: I worked closely with Kathleen and her team from the beginning design and wireframe stage until the final website was completed. We built out a CMS blog for their team to manage, and I provided training and support on blog posting, content creation, SEO advice, and more. I managed weekly phone calls with timelines and agendas during the build phases, and provided monthly SEO and analytics results after their new site was live.
 
 ---

@@ -1,16 +1,17 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Richard Sherman
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
+img: rs25.jpg
+thumbnail: rs25-thumbnail.jpg
+alt: RS25
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Richard Sherman
+link: http://www.richardsherman25.com/
 tag: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The man, the legend, Richard Sherman, cornerback for the Seattle Seahawks. As part of anthro.is' Athlete Platform program, I did the initial set up and management of his entire eCommerce store and website. Working closely with team designers and developers on e-commerce goals and experience on the front end, we designed the initial website that launched the entire platform for anthro.
+description2: Working with our team, I created marketing campaigns and content calendars for use in email, social media, blog, and remarketing strategies and planning. I also launched and set up an Amazon Seller account for his gear.
+description3: Anthro successfully launched his website and platform in 2013, and made close to 1M in overall revenue from his online site and store in the 2014 season.
 
 ---

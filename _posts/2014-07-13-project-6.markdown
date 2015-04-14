@@ -1,16 +1,17 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Mahaska
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
+img: mahaska.jpg
+thumbnail: mahaska-thumbnail.jpg
+alt: mahaska
 project-date: April 2014
-client: Start Bootstrap
+client: Mahaska
+link: http://www.mahaska.com/#!/
 tag: portfolio
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Mahaska is a bottling and distribution company located in the Midwestern US. They wanted a branding and website refresh, with a focus on brand awareness. I worked directly with their management team and CEO on website goals, look and feel, and site map to develop their new website and brand. As lead account manager, I managed the design, development, and SEO/Analytics teams to create the website in phases.
+description2: For their new social media initiative, I started and manage all accounts including Facebook, Instagram, Twitter, Google+, LinkedIn, and YouTube. I also set up and ran a Facebook ad campaign for likes, using $2k to generate over 10k in targeted and relevant followers. I created and presented a social media presentation to their entire corporation, highlighting the importance and best practices for companies and employees in this day and age.
+description3: We also worked to create back-ends for their HR and Accounting departments. For HR, we created a careers portal for job postings and management of their careers page online, as well as a digital online application for gathering potential hire information. This links to a digital online database for storing all HR data, which makes their process nearly paperless. For their accounting team, we created a streamlined accounting platform and UI interface with data stored on the cloud. This saves their team weeks of time and effort, making their process more efficient and cost-saving.
 
 ---

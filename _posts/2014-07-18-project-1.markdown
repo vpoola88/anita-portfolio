@@ -1,16 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Soundcast
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+img: soundcast.jpg
+thumbnail: soundcast-thumbnail.jpg
+alt: gosoundcast
+client: Soundcast
+link: http://www.gosoundcast.com/
 tag: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Soundcast is the manufacturer and seller of high performance portable and waterproof speakers and audio equipment. Originally only available in retail locations, they wanted to do a rebrand of their website while entering the online eCommerce space at the same time. 
+description2: As account lead, I met with their top executives and worked closely with their marketing team on a design that reflected their high-end target market and brought them up to the level of their competition. As they wanted to enter the eCommerce world, we created a robust online platform for them to manage inventory, sales, and customers. I worked closely with the development and design teams, while working on setting up their eCommerce store back end and training their team on the usage and best practices. 
+description3: We used online digital marketing strategies that incorporated social media, design testing and analytics, SEO, paid ads, and remarketing to increasing traffic and stimulate sales. We were able to double online sales and revenue year over year for Soundcast in the time they were our client.
 ---

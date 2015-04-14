@@ -1,16 +1,17 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Parq Restaurant & Nightclub
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+img: parq.jpg
+thumbnail: parq-thumbnail.jpg
+alt: parq
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Parq Restaurant & Nightclub
+link: http://www.parqsd.com/
 tag: portfolio
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Parq is a brand new restaurant and nightclub in downtown San Diego, CA that opened in October of 2014. I worked with closely with Parq's CEO and management team on design direction of website and brand through all phases from initial wireframe to launch. I directed and collaborated with the design and development teams for perfect execution.
+description2: We created a social media campaign designed to hype up the launch and grand opening in October, in order to grow awareness and excitement. Working with a team, I helped create a digital marketing strategy to facilitate goals of nightly head counts in both restaurant and club sides of their business. We worked with Parq to manage material and collateral design, flyers, menus, and promotions.
+description3: I also worked closely with our SEO team to make website changes and create content designed to optimize search results for Parq. Reviewed target market data based on analytics from the first couple months of launch, and adjusted marketing plan based on results.
 
 ---

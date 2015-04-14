@@ -305,7 +305,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
@@ -347,8 +347,8 @@ section h3.section-subheading {
 }
 
 #services {
-    background-color: #3A3937;
-    color: #fff;
+    background-color: #f7f7f7;
+    color: #000;
 }
 .service-heading {
     margin: 15px 0;
@@ -966,4 +966,24 @@ header {
     #services .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+#testimonials {
+    background: #3A3937;
+    color: #FFF;
+}
+div h2.section-heading {
+    padding-top: 10px;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+
+blockquote p {
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22.5px;
+}
+
+#quote h2 {
+    text-transform: initial;
 }
