@@ -297,6 +297,11 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+@media (max-width: 992px) {
+    header .intro-text .intro-heading{
+        font-size: 36px;
+    }
+}
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -877,6 +882,13 @@ body {
   padding-top: 50px;
 }
 
+@media(max-width: 992px){
+    #quote {
+        height: auto;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+}
 header {
     text-align: center;
     color: #fff;
