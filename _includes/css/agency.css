@@ -999,3 +999,50 @@ blockquote p {
 #quote h2 {
     text-transform: initial;
 }
+
+form
+  max-width: 450px
+  margin: 0 auto 50px
+  
+  input, textarea
+    border: 1px solid pink
+    width: 100%
+    +box-sizing(border-box)
+    padding: 10px
+    
+    &:focus
+      outline: none
+  
+  .submit-wrap
+    text-align: right
+    
+    
+  [type="submit"]
+    background: red
+    color: white
+    width: 33%
+    
+    
+  textarea
+    height: 10em
+      
+  .contact-info-group
+    
+    label
+      width: 50%
+      float: left
+      +box-sizing(border-box)
+        
+      &:nth-child(1)
+        padding-right: 5px
+      
+      &:nth-child(2)
+        padding-left: 5px
+  
+  
+  label
+    display: block
+    margin-bottom: 20px
+    
+    span
+      display: block
