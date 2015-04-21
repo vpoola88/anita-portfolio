@@ -16,6 +16,8 @@ social:
   - title: linkedin
     url: http://www.linkedin.com/in/anitacoggshall
 
+include:      [".htaccess"]
+
 # Build settings
 markdown: kramdown
 permalink: pretty
