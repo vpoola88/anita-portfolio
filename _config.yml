@@ -17,6 +17,7 @@ social:
     url: http://www.linkedin.com/in/anitacoggshall
 
 include:      [".htaccess"]
+include:      [".htpasswd"]
 
 # Build settings
 markdown: kramdown
