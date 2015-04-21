@@ -12,6 +12,10 @@ color:
   secondary: 31b4b1  
   secondary-dark: 333
 
+social:
+  - title: linkedin
+    url: http://www.linkedin.com/in/anitacoggshall
+
 # Build settings
 markdown: kramdown
 permalink: pretty
