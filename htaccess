@@ -1,9 +1,9 @@
 ---
 layout: null
-permalink: anita-portfolio/.htaccess
+permalink: /var/www/anita-portfolio/.htaccess
 ---
 
 AuthType Basic
 AuthName "Protected Area"
-AuthUserFile /.htpasswd
+AuthUserFile /var/www/anita-portfolio/.htpasswd
 Require valid-user
