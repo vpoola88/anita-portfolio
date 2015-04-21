@@ -301,6 +301,9 @@ header .intro-text .intro-heading {
     header .intro-text .intro-heading{
         font-size: 36px;
     }
+    #testimonials h2 {
+        font-size: 36px;
+    }
 }
 @media(min-width:768px) {
     header .intro-text {
@@ -1056,4 +1059,10 @@ form
 
 #wrapper {
     margin-top: 100px;
+}
+
+@media(max-width:992px){
+    #wrapper {
+        margin-top: 60px;
+    }
 }
