@@ -5,5 +5,5 @@ permalink: .htaccess
 
 AuthType Basic
 AuthName "Enter a username and password"
-AuthUserFile /var/www/anita-portfolio/_site/.htpasswd
+AuthUserFile /var/www/.htpasswd
 Require valid-user
