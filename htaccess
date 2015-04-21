@@ -4,6 +4,6 @@ permalink: .htaccess
 ---
 
 AuthType Basic
-AuthName "Protected Area"
-AuthUserFile /var/www/anita-portfolio/_sites/.htpasswd
+AuthName "Enter a username and password"
+AuthUserFile /var/www/.htpasswd
 Require valid-user
