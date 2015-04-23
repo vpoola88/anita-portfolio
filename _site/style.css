@@ -1077,6 +1077,10 @@ form
         margin-top: 60px;
     }
 }
+
+.owl-carousel {
+    display:inline-block !important;
+}
 /* 
  * 	Core Owl Carousel CSS File
  *	v1.3.3
