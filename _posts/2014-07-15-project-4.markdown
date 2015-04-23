@@ -2,7 +2,7 @@
 title: Sports Media Challenge
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2014-07-28
 img: smc.jpg
 thumbnail: smc-thumbnail.jpg
 alt: sportsmediachallenge

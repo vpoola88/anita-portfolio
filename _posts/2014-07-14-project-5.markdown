@@ -2,7 +2,7 @@
 title: Richard Sherman
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-07-29
 img: rs25.jpg
 thumbnail: rs25-thumbnail.jpg
 alt: RS25

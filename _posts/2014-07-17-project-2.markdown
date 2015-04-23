@@ -2,7 +2,7 @@
 title: Branden Muhl
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2014-07-21
 img: branden.jpg
 thumbnail: branden-thumbnail.jpg
 alt: branden

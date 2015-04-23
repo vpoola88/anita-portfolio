@@ -1,8 +1,8 @@
 ---
 title: Parq Restaurant & Nightclub
 layout: default
-modal-id: 3
-date: 2014-07-16
+modal-id: 1
+date: 2014-07-20
 img: parq.jpg
 thumbnail: parq-thumbnail.jpg
 alt: parq

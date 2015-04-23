@@ -2,7 +2,7 @@
 title: Mahaska
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2014-07-30
 img: mahaska.jpg
 thumbnail: mahaska-thumbnail.jpg
 alt: mahaska
